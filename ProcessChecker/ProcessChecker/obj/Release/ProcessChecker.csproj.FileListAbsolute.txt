@@ -6,3 +6,12 @@ C:\Users\mbp7\SkyDrive\studies\1306\ProcessChecker\ProcessChecker\obj\Release\Pr
 C:\Users\mbp7\SkyDrive\studies\1306\ProcessChecker\ProcessChecker\obj\Release\ProcessChecker.csproj.GenerateResource.Cache
 C:\Users\mbp7\SkyDrive\studies\1306\ProcessChecker\ProcessChecker\obj\Release\ProcessChecker.exe
 C:\Users\mbp7\SkyDrive\studies\1306\ProcessChecker\ProcessChecker\obj\Release\ProcessChecker.pdb
+C:\Users\mbp7\Documents\GitHub\ProcessChecker_cs\ProcessChecker\ProcessChecker\bin\Release\ProcessChecker.exe.config
+C:\Users\mbp7\Documents\GitHub\ProcessChecker_cs\ProcessChecker\ProcessChecker\obj\Release\ProcessChecker.exe
+C:\Users\mbp7\Documents\GitHub\ProcessChecker_cs\ProcessChecker\ProcessChecker\obj\Release\ProcessChecker.pdb
+C:\Users\mbp7\Documents\GitHub\ProcessChecker_cs\ProcessChecker\ProcessChecker\bin\Release\ProcessChecker.exe
+C:\Users\mbp7\Documents\GitHub\ProcessChecker_cs\ProcessChecker\ProcessChecker\bin\Release\ProcessChecker.pdb
+C:\Users\mbp7\Documents\GitHub\ProcessChecker_cs\ProcessChecker\ProcessChecker\obj\Release\ProcessChecker.csprojResolveAssemblyReference.cache
+C:\Users\mbp7\Documents\GitHub\ProcessChecker_cs\ProcessChecker\ProcessChecker\obj\Release\ProcessChecker.Form1.resources
+C:\Users\mbp7\Documents\GitHub\ProcessChecker_cs\ProcessChecker\ProcessChecker\obj\Release\ProcessChecker.Properties.Resources.resources
+C:\Users\mbp7\Documents\GitHub\ProcessChecker_cs\ProcessChecker\ProcessChecker\obj\Release\ProcessChecker.csproj.GenerateResource.Cache

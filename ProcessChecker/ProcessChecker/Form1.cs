@@ -183,10 +183,8 @@ namespace ProcessChecker
             string result = "";
             try
             {
-                //UDPSerialProxy
                 string path = pathTB.Text;
                 System.Diagnostics.Process.Start(path);
-                //System.Diagnostics.Process.Start(_processName);
                 result = "プロセスを開始しました。\r\n";
             }
             catch (Exception ex)
