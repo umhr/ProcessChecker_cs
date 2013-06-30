@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <isNull>false</isNull>
+  <ProcessName>notepad</ProcessName>
+  <Path>C:\Windows\System32\notepad.exe</Path>
+  <CheckInterval>10</CheckInterval>
+  <ResetHour>0</ResetHour>
+  <ResetMinute>0</ResetMinute>
+</Data>
